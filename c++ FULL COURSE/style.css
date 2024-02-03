@@ -1,0 +1,175 @@
+body {
+    background-color: #212121;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    color: #ffffff;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    color: #ffffff;
+  }
+  
+  #header {
+    background-color: #000000;
+    color: #ffffff;
+    height: 100px;
+    padding: 20px 0;
+  }
+  
+  #header h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 0;
+    color: #ffffff;
+  }
+  
+  #main {
+    margin-top: 100px;
+  }
+  
+  #services {
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 0;
+      color: #ffffff;
+    }
+  
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+    li {
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+  }
+  
+  #testimonials {
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 0;
+      color: #ffffff;
+    }
+  
+    blockquote {
+      padding: 10px 20px;
+      border: 1px solid #ccc;
+    }
+  
+    footer {
+      font-size: 12px;
+      color: #ffffff;
+    }
+  }
+  
+  #works {
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 0;
+      color: #ffffff;
+    }
+  
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+    li {
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+  }
+  
+  #faqs {
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 0;
+      color: #ffffff;
+    }
+  
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+    li {
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+  }
+  
+  #contact {
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 0;
+      color: #ffffff;
+    }
+  
+    form {
+      margin-top: 20px;
+    }
+  
+    input {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      color: #ffffff;
+    }
+  
+    button {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      background-color: #000000;
+      color: #ffffff;
+    }
+  
+    footer {
+      font-size: 12px;
+      color: #ffffff;
+    }
+  
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 20px;
+    }
+  
+    #header {
+      height: 50px;
+    }
+  
+    #header h1 {
+      font-size: 32px;
+    }
+  
+    #main {
+      margin-top: 50px;
+    }
+  
+    #services {
+      ul {
+        padding: 0 10px;
+      }
+    }
+  
+    #testimonials {
+      blockquote {
+        padding:
+  

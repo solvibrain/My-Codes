@@ -1,0 +1,4 @@
+    # import fibo 
+    import fractions
+
+    
